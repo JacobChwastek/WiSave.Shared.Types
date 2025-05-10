@@ -4,6 +4,14 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>WiSave.Shared.Types</PackageId>
+        <Authors>Jacob Chwastek</Authors>
+        <Company>WiSave</Company>
+        <Description>Types used across the WiSave.Shared project</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/JacobChwastek/WiSave.Shared.Types</RepositoryUrl>
     </PropertyGroup>
+
 
 </Project>
